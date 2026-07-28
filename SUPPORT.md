@@ -11,5 +11,11 @@ Stellar community, we suggest that you:
 You can also find us on [Stellar's keybase team](https://keybase.io/team/stellar.public) in the
 \#dev-discussion channel.
 
-[2]: https://stellar.stackexchange.com/
+
+https://stellar.stackexchange.com/~~
+
+
 [3]: https://www.stellar.org/community
+^^
+
+https://github.com/orgs/stellar/discussions
