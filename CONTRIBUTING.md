@@ -58,7 +58,7 @@ Of course, feel free to create a new issue if you think something needs to be ad
 
 
 At this point you're waiting on us. We like to at least comment on pull requests within three
-business days (typically, one business day). We may suggest some changes, improvements or
+business days (typically, one business day). We may suggest some changes, improvements, or
 alternatives.
 
 # Additional Resources
