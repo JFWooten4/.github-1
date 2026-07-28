@@ -11,17 +11,15 @@ changes quickly.
 
 - Make sure you have a [GitHub account](https://github.com/signup/free).
 - Create a GitHub issue for your contribution, assuming one does not already exist.
-  - Clearly describe the issue including steps to reproduce if it is a bug.
+  - Clearly describe the issue including steps to reproduce if it is a bug.       ~~
 - Fork the repository on GitHub.
 
 ### Minor Changes
 
 #### Documentation
-
+~~
 For small changes to comments and documentation, it is not
-always necessary to create a new GitHub issue. In this case, it is
-appropriate to start the first line of a commit with 'doc' instead of
-an issue number.
+always necessary to create a new GitHub issue. In this case, it is appropriate to start the first line of a commit with 'doc' instead of an issue number.
 
 ## Finding things to work on
 
