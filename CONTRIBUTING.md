@@ -63,7 +63,7 @@ alternatives.
 
 # Additional Resources
 
-* [Explore our APIs](https://developers.stellar.org/docs)
+* [Explore our APIs](https://developers.stellar.org/docs/data/apis)
 * [Stellar Developer Discord](https://discord.com/invite/stellardev)
 
 This document is inspired by:
